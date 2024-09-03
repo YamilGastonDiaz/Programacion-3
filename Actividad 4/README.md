@@ -2,4 +2,4 @@
 - LISTBOX
 - CHECKEDLISTBOX
 ---
-![actividad4](https://github.com/user-attachments/assets/69c5e609-787e-43a2-99a2-7f8c34e1072b)
+![Actividad 4](https://github.com/user-attachments/assets/1dca8fc9-1516-4170-9f28-1989b1b6becf)

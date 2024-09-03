@@ -1,4 +1,4 @@
 # Actividad 5
 - IMAGELIST LISTVIEW
 ---
-![actividad5](https://github.com/user-attachments/assets/15a32fb0-552a-43e9-88d2-1e36852a7236)
+![Actividad 5](https://github.com/user-attachments/assets/3d29d8a1-2061-435f-9065-2d38ea070930)

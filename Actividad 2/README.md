@@ -2,4 +2,4 @@
 - RADIOBUTTON
 - CHECKBOX
 ---
-![actividad2](https://github.com/user-attachments/assets/3fa4eae6-159c-4671-998e-1edd10c59a2d)
+![Actividad 2](https://github.com/user-attachments/assets/da9ad276-9d75-4dbe-a9bd-87826ebee664)
